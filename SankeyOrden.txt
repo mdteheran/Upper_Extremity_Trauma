@@ -1,0 +1,59 @@
+FINGERS
+Fingers [275] Male
+Fingers [15] Female
+
+Male [106] Contusion
+Male [90] Laceration
+Male [34] Crushing
+Male [31] Fracture
+Male [5] Amputation
+Male [4] Dislocation
+Male [3] Burn
+Male [2] Lancing
+
+
+Female [6] Contusion
+Female [5] Laceration
+Female [2] Crushing
+Female [1] Fracture
+Female [1] Lancing
+- - - - - - - - - - - - - - - - - - - - - 
+HAND
+Hand [77] Male
+Hand [4] Female
+
+Male [39] Contusion
+Male [19] Crushing
+Male [10] Laceration
+Male [4] Fracture
+Male [3] Dislocation
+Male [1] Lancing
+Male [1] Burn
+
+Female [3] Contusion
+Female [1] Laceration
+- - - - - - - - - - - - - - - - - - - - - 
+HAND AND WRIST
+Hand and Wrist [36] Male
+Hand and Wrist [2] Female
+
+Male [12] Contusion
+Male [11] Laceration
+Male [10] Crushing
+Male [1] Dislocation
+Male [1] Fracture
+Male [1] Lancing
+
+Female [2] Contusion
+- - - - - - - - - - - - - - - - - - - - - 
+WRIST
+Wrist [9] Male
+Wrist [5] Female
+
+Male [7] Contusion
+Male [1] Burn
+Male [1] Laceration
+
+Female [3] Contusion
+Female [1] Crushing
+Female [1] Dislocation
